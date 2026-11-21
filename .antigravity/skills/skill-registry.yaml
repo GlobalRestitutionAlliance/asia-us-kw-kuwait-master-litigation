@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: kuwaitan-restitution-roadmap-and-qsf-trust-execution
-  name: Kuwaitan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/kuwaitan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_kw_001
+    name: Kuwait Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_002
+    name: Kuwait Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_003
+    name: Kuwait Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_004
+    name: Kuwait Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_005
+    name: Kuwait Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_006
+    name: Kuwait Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_007
+    name: Kuwait Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_008
+    name: Kuwait Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_009
+    name: Kuwait Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_010
+    name: Kuwait Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_011
+    name: Kuwait Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_012
+    name: Kuwait Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_013
+    name: Kuwait Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_014
+    name: Kuwait Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_015
+    name: Kuwait Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_016
+    name: Kuwait Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_017
+    name: Kuwait Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_018
+    name: Kuwait Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_019
+    name: Kuwait Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_020
+    name: Kuwait Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_021
+    name: Kuwait Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_022
+    name: Kuwait Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_023
+    name: Kuwait Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_024
+    name: Kuwait Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_025
+    name: Kuwait Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_026
+    name: Kuwait Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_027
+    name: Kuwait Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_028
+    name: Kuwait Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_029
+    name: Kuwait Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_030
+    name: Kuwait Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_031
+    name: Kuwait Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_032
+    name: Kuwait Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_033
+    name: Kuwait Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_034
+    name: Kuwait Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_035
+    name: Kuwait Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_036
+    name: Kuwait Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_037
+    name: Kuwait Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_038
+    name: Kuwait Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_039
+    name: Kuwait Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_040
+    name: Kuwait Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_041
+    name: Kuwait Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_042
+    name: Kuwait Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_043
+    name: Kuwait Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_044
+    name: Kuwait Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_045
+    name: Kuwait Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_046
+    name: Kuwait Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_047
+    name: Kuwait Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_048
+    name: Kuwait Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_049
+    name: Kuwait Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_050
+    name: Kuwait Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_051
+    name: Kuwait Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_052
+    name: Kuwait Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_053
+    name: Kuwait Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_054
+    name: Kuwait Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_055
+    name: Kuwait Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_056
+    name: Kuwait Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_057
+    name: Kuwait Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_058
+    name: Kuwait Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_059
+    name: Kuwait Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_060
+    name: Kuwait Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_061
+    name: Kuwait Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_062
+    name: Kuwait Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_063
+    name: Kuwait Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_064
+    name: Kuwait Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_065
+    name: Kuwait Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_066
+    name: Kuwait Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_067
+    name: Kuwait Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_068
+    name: Kuwait Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_069
+    name: Kuwait Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_070
+    name: Kuwait Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_071
+    name: Kuwait Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_072
+    name: Kuwait Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_073
+    name: Kuwait Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_074
+    name: Kuwait Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_075
+    name: Kuwait Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_076
+    name: Kuwait Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_077
+    name: Kuwait Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_078
+    name: Kuwait Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_079
+    name: Kuwait Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_080
+    name: Kuwait Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_081
+    name: Kuwait Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_082
+    name: Kuwait Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_083
+    name: Kuwait Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_084
+    name: Kuwait Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_085
+    name: Kuwait Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_086
+    name: Kuwait Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_087
+    name: Kuwait Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_088
+    name: Kuwait Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_089
+    name: Kuwait Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_090
+    name: Kuwait Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_091
+    name: Kuwait Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_092
+    name: Kuwait Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_093
+    name: Kuwait Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_094
+    name: Kuwait Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_095
+    name: Kuwait Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_096
+    name: Kuwait Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_097
+    name: Kuwait Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_098
+    name: Kuwait Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_099
+    name: Kuwait Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_100
+    name: Kuwait Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_101
+    name: Kuwait Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_102
+    name: Kuwait Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_103
+    name: Kuwait Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_104
+    name: Kuwait Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_105
+    name: Kuwait Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_106
+    name: Kuwait Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_107
+    name: Kuwait Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_108
+    name: Kuwait Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_109
+    name: Kuwait Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_110
+    name: Kuwait Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_111
+    name: Kuwait Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_112
+    name: Kuwait Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_113
+    name: Kuwait Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_114
+    name: Kuwait Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_115
+    name: Kuwait Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_116
+    name: Kuwait Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_117
+    name: Kuwait Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_118
+    name: Kuwait Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_119
+    name: Kuwait Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_120
+    name: Kuwait Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_121
+    name: Kuwait Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_122
+    name: Kuwait Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_123
+    name: Kuwait Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_124
+    name: Kuwait Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_125
+    name: Kuwait Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_126
+    name: Kuwait Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_127
+    name: Kuwait Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_128
+    name: Kuwait Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_129
+    name: Kuwait Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_130
+    name: Kuwait Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_131
+    name: Kuwait Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_132
+    name: Kuwait Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_133
+    name: Kuwait Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_134
+    name: Kuwait Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_135
+    name: Kuwait Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_136
+    name: Kuwait Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_137
+    name: Kuwait Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_138
+    name: Kuwait Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_139
+    name: Kuwait Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_140
+    name: Kuwait Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_141
+    name: Kuwait Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_142
+    name: Kuwait Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_143
+    name: Kuwait Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_144
+    name: Kuwait Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_145
+    name: Kuwait Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_146
+    name: Kuwait Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_147
+    name: Kuwait Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_148
+    name: Kuwait Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_149
+    name: Kuwait Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_150
+    name: Kuwait Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_151
+    name: Kuwait Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_152
+    name: Kuwait Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_153
+    name: Kuwait Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_154
+    name: Kuwait Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_155
+    name: Kuwait Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_156
+    name: Kuwait Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_157
+    name: Kuwait Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_158
+    name: Kuwait Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_159
+    name: Kuwait Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_160
+    name: Kuwait Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_161
+    name: Kuwait Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_162
+    name: Kuwait Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_163
+    name: Kuwait Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_164
+    name: Kuwait Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_165
+    name: Kuwait Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_166
+    name: Kuwait Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_167
+    name: Kuwait Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_168
+    name: Kuwait Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_169
+    name: Kuwait Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_170
+    name: Kuwait Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_171
+    name: Kuwait Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_172
+    name: Kuwait Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_173
+    name: Kuwait Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_174
+    name: Kuwait Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_175
+    name: Kuwait Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_176
+    name: Kuwait Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_177
+    name: Kuwait Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_178
+    name: Kuwait Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_179
+    name: Kuwait Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_180
+    name: Kuwait Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_181
+    name: Kuwait Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_182
+    name: Kuwait Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_183
+    name: Kuwait Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_184
+    name: Kuwait Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_185
+    name: Kuwait Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_186
+    name: Kuwait Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_187
+    name: Kuwait Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_188
+    name: Kuwait Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_189
+    name: Kuwait Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_190
+    name: Kuwait Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_191
+    name: Kuwait Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_192
+    name: Kuwait Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_193
+    name: Kuwait Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_194
+    name: Kuwait Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_195
+    name: Kuwait Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_196
+    name: Kuwait Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_197
+    name: Kuwait Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_198
+    name: Kuwait Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_199
+    name: Kuwait Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_200
+    name: Kuwait Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_201
+    name: Kuwait Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_202
+    name: Kuwait Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_203
+    name: Kuwait Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_204
+    name: Kuwait Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_205
+    name: Kuwait Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_206
+    name: Kuwait Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_207
+    name: Kuwait Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_208
+    name: Kuwait Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_209
+    name: Kuwait Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_210
+    name: Kuwait Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_211
+    name: Kuwait Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_212
+    name: Kuwait Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_213
+    name: Kuwait Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_214
+    name: Kuwait Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_215
+    name: Kuwait Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_216
+    name: Kuwait Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_217
+    name: Kuwait Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_218
+    name: Kuwait Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_219
+    name: Kuwait Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_220
+    name: Kuwait Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_221
+    name: Kuwait Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_222
+    name: Kuwait Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_223
+    name: Kuwait Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_224
+    name: Kuwait Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_225
+    name: Kuwait Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_226
+    name: Kuwait Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_227
+    name: Kuwait Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_228
+    name: Kuwait Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_229
+    name: Kuwait Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_230
+    name: Kuwait Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_231
+    name: Kuwait Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_232
+    name: Kuwait Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_233
+    name: Kuwait Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_234
+    name: Kuwait Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_235
+    name: Kuwait Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_236
+    name: Kuwait Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_237
+    name: Kuwait Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_238
+    name: Kuwait Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_239
+    name: Kuwait Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_240
+    name: Kuwait Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_241
+    name: Kuwait Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_242
+    name: Kuwait Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_243
+    name: Kuwait Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_244
+    name: Kuwait Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_245
+    name: Kuwait Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_246
+    name: Kuwait Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_247
+    name: Kuwait Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_248
+    name: Kuwait Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_249
+    name: Kuwait Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_250
+    name: Kuwait Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_251
+    name: Kuwait Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_kw_252
+    name: Kuwait Skill 252
+    status: ACTIVE_SCAFFOLD
